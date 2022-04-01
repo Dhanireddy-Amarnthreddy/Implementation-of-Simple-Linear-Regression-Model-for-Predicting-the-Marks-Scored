@@ -18,8 +18,10 @@ To write a program to implement the simple linear regression model for predictin
 ~~~
 ## Program:
 ```
-developed by=D.Amarnath
+~~~
+#developed by=D.Amarnath
 #Reference number: 212221240012
+~~~
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -46,10 +48,11 @@ plt.title("Hours vs scores (Testing set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
+```
 
 
 ## Output:
-![Github Logo](linear.png)
+![Github Logo](amma.png)
 
 
 ## Result:
