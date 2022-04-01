@@ -48,7 +48,7 @@ plt.show()
 
 
 ## Output:
-![linear ](https://user-images.githubusercontent.com/94165103/161201051-7705c31e-51b4-47d4-bd22-104c05cc3c2f.png)
+![github](linear.png)
 
 !linear 2](https://user-images.githubusercontent.com/94165103/161200635-c15773f0-8efe-47b3-a412-48b4ada6e8ad.png)
 
